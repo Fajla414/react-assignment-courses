@@ -1,0 +1,14 @@
+.badge-design{
+    /* padding: 5px 13px; */
+    width: 87px;
+    background-color: #faa0a0;
+    height: 30px;
+    border-radius: 27px;
+    line-height: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.icon{
+    font-size: 14px;
+}
